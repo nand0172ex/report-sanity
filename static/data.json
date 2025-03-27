@@ -1,0 +1,88 @@
+{
+    "reports": [
+        {
+            "date": "27/03/2025",
+            "checks": [
+                {
+                    "activity": "Sanity",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "Red" },
+                        { "name": "ARTB", "INT-Done": "Red", "TEST-Done": "Red", "PREF-Done": "Red", "Test-Mig-Done": "" },
+                        { "name": "FF AUA", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                },
+                {
+                    "activity": "Regression",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Amber", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "26/03/2025",
+            "checks": [
+                {
+                    "activity": "Sanity",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "Red" },
+                        { "name": "ARTB", "INT-Done": "Red", "TEST-Done": "Red", "PREF-Done": "Red", "Test-Mig-Done": "" },
+                        { "name": "FF AUA", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                },
+                {
+                    "activity": "Regression",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Amber", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "25/03/2025",
+            "checks": [
+                {
+                    "activity": "Sanity",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "Red" },
+                        { "name": "ARTB", "INT-Done": "Red", "TEST-Done": "Red", "PREF-Done": "Red", "Test-Mig-Done": "" },
+                        { "name": "FF AUA", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                },
+                {
+                    "activity": "Regression",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Amber", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "24/03/2025",
+            "checks": [
+                {
+                    "activity": "Sanity",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "Red" },
+                        { "name": "ARTB", "INT-Done": "Red", "TEST-Done": "Red", "PREF-Done": "Red", "Test-Mig-Done": "" },
+                        { "name": "FF AUA", "INT-Done": "Green", "TEST-Done": "Green", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                },
+                {
+                    "activity": "Regression",
+                    "domains": [
+                        { "name": "BUY", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Amber", "Test-Mig-Done": "" },
+                        { "name": "CARE", "INT-Done": "Amber", "TEST-Done": "Amber", "PREF-Done": "Green", "Test-Mig-Done": "" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
